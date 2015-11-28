@@ -1,0 +1,27 @@
+{
+  "name": "timple-nodejs-mysql-utils",
+  "version": "0.0.1",
+  "description": "simple nodejs mysql utils",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha test/*.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/evbasso/timple-nodejs-mysql-utils.git"
+  },
+  "keywords": [
+    "timple",
+    "nodejs",
+    "mysql"
+  ],
+  "author": "Everton Araujo",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/evbasso/timple-nodejs-mysql-utils/issues"
+  },
+  "homepage": "https://github.com/evbasso/timple-nodejs-mysql-utils#readme",
+  "dependencies": {
+    "mysql": "^2.9.0"
+  }
+}
